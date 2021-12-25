@@ -1,5 +1,11 @@
 # Laraval Sail starter with Statamic CMS
 
+Laravel is a modern PHP framework that enables full-stack development via back-end rendered HTML templates or a front-end framework like Vue JS (not included in this starter - see my [Laravel + Vue stater here](https://github.com/ndrag/laravel-vue-inertia-tailwind-starter).
+
+Statamic is a simple CMS that allows you to build your Laravel application with content generated via a user-accessible front-end. It uses flat files rather than a database to provide super speedy performance for small-scale, text-heavy websites. 
+
+This application is almost entirely self-contained: It doesn't require PHP, Laravel, or any other global installs except Docker for Desktop. 
+
 ## Stack
 - PHP 8
 - Laravel 8
@@ -8,7 +14,7 @@
 - Docker via Laravel Sail
 
 ## Requirements
-- A linux distro with Docker installed or Windows with WSL2 and Docker for Desktop (ideally). 
+- Windows with WSL2 and Docker for Desktop.
 ## Setup
 - Clone the repo with `git clone https://github.com/ndrag/laravel-sail-statamic-cms-starter.git`
 - First run only: Run the following command to spin up a docker instance with php 8 & composer and then automatically execute the `composer install` command.
