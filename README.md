@@ -34,3 +34,10 @@ docker run --rm \
 ## Local Developmnet
 - Run `sail up` to launch the Docker container and serve the site at `localhost`.
 - Run `sail down` to spin down the Docker container. 
+- Access the site at `localhost`.
+- Access the CMS control panel at `localhost/cp`. 
+
+## Getting Started
+- Both frameworks used in this starter provide good documentation. Start your journey there.
+- Read the Laravel documentation [here](https://laravel.com/docs/8.x).
+- Read the Statamic documentation [here](https://statamic.com/).
