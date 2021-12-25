@@ -1,12 +1,10 @@
-title: Pages
-template: home
+title: Blogs
+template: blog/show
 layout: layout
 revisions: false
-route: '/{slug}'
+route: '/blogs/{slug}'
+date: true
 sort_dir: asc
 date_behavior:
   past: public
   future: private
-structure:
-  root: true
-  slugs: true
