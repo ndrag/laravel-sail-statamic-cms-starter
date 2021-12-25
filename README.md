@@ -1,6 +1,6 @@
 # Laraval Sail starter with Statamic CMS
 
-Laravel is a modern full-stack PHP development environment that offers back-end rendered HTML templates or integration with a front-end framework like Vue JS (not included in this starter - see my [Laravel + Vue stater here](https://github.com/ndrag/laravel-vue-inertia-tailwind-starter).
+Laravel is a modern full-stack PHP development environment that offers back-end rendered HTML templates or integration with a front-end framework like Vue JS (not included in this starter - see my [Laravel + Vue stater here](https://github.com/ndrag/laravel-vue-inertia-tailwind-starter)).
 
 Statamic is a simple CMS that allows you to build your Laravel application with content generated via a user-accessible front-end. It uses flat files rather than a database to provide super speedy performance for small-scale, text-heavy websites. 
 
