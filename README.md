@@ -22,6 +22,7 @@ docker run --rm \
 ```
 - You now have access to a fully self-contained PHP 8, Statamic, Laravel Sail application!
 - Copy `.env.example` to `.env` and configure appropriately.
+- Configure a global bash alias to enable the 'sail' command shortcut `alias sail='[ -f sail ] && bash sail || bash vendor/bin/sail'`
 - Run `artisan key:generate` to generate an application key.
 
 ## Local Developmnet
